@@ -1,0 +1,32 @@
+body {
+  background-color: #d2f5e3;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+  border-style: dotted none none;
+}
+h1 {
+color: blue;
+text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+h3 {
+text-align: center;
+}
+
+p {
+
+  text-align: center;
+}
+
+table {
+  text-align: center;
+}
